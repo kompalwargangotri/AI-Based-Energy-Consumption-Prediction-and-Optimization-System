@@ -56,10 +56,10 @@ An AI-based system that predicts and optimizes energy consumption using Machine 
 # How to Run (Jupyter/Colab)
 
 1. Clone the repository:
-   git clone https://github.com/your-username/ai-energy-consumption-prediction.git
+   git clone [https://github.com/your-username/ai-energy-consumption-prediction.git](https://github.com/kompalwargangotri/AI-Based-Energy-Consumption-Prediction-and-Optimization-System/blob/main/APPLIED_AI_FINAL_PROJECT.ipynb)
 
 2. Navigate to the project folder:
-   cd ai-energy-consption-prediction
+   cd AI-Based Energy Consumption Prediction and Optimization System
 
 3. Install required libraries:
    pip install numpy pandas scikit-learn tensorflow matplotlib
